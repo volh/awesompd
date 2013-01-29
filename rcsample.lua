@@ -131,7 +131,7 @@ mytextclock = awful.widget.textclock()
   
   -- This option is necessary if you want the album covers to be shown
   -- for your local tracks.
-  musicwidget.mpd_config = "/home/username/.mpdconf"
+  musicwidget.mpd_config = "/etc/mpd.conf"
   
   -- Specify decorators on the left and the right side of the
   -- widget. Or just leave empty strings if you decorate the widget
